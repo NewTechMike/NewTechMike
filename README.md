@@ -2,6 +2,7 @@
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/19312742/210154365-1c9e1d78-037d-4280-bbac-c51742b94edb.png)
 
 ![rubyonrails](https://user-images.githubusercontent.com/19312742/210154491-71c117fd-b14c-44a6-b82e-9a8dd7e2ef09.svg)
+#CC0000
 
 
 

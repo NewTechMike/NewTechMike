@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/19312742/210154365-1c9e1d78-037d-4280-bbac-c51742b94edb.png)
 
-I'm Mike. Currently pursuing a career in Software Engineering after 15 years in customer service as a technician, 10 of which directly for Apple.
+I'm Mike. Currently pursuing a career in Software Engineering after 15 years in customer service as a technician, 10 of which directly for Apple. I decided to mix things up and change my career in hopes to level up myself in multiple ways.
 
 <!--
 **NewTechMike/NewTechMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,6 @@
 ### Hi there 👋
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/19312742/210154365-1c9e1d78-037d-4280-bbac-c51742b94edb.png)
 
-![rubyonrails](https://user-images.githubusercontent.com/19312742/210154491-71c117fd-b14c-44a6-b82e-9a8dd7e2ef09.svg)
-#CC0000
-
-
-
 I'm Mike. Currently pursuing a career in Software Engineering after 15 years in customer service as a technician, 10 of which directly for Apple. I decided to mix things up and change my career in hopes to level up myself in multiple ways.
 
 <!--
